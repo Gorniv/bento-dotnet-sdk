@@ -1,7 +1,9 @@
 {
     "cSpell.words": [
         "Bento",
+        "netstandard",
         "unsubscriber",
         "wiggleroom"
-    ]
+    ],
+    "kiroAgent.configureMCP": "Disabled"
 }
